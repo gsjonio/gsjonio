@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Gustavo! 👋
 
 ### 🐍 Backend Developer | Cloud & Infrastructure
 I specialize in building scalable, resilient, and high-performance backend systems. My core expertise lies in the modern Python ecosystem, robust database management, and cloud-native architectures.
@@ -47,5 +47,5 @@ I specialize in building scalable, resilient, and high-performance backend syste
 ---
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavooliveira5988/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavocode18@gmail.com)
