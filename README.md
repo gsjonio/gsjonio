@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gustavo Oliveira
+# Hi there! I'm Gustavo "Bahia" Oliveira
 
 **Python Backend Developer** | FastAPI · APIs · Microservices
 
