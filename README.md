@@ -4,8 +4,7 @@
 
 **Python Backend Developer** | FastAPI · APIs · Microservices
 
-Building backend systems and APIs that work at scale. I focus on data integration, automations, and systems that need to be reliable. Currently working at GFT on global digital transformation projects.
-
+I focus on data integration, automations, and systems that need to be reliable.
 </div>
 
 ## What I Do
