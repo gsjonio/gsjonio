@@ -60,13 +60,13 @@ I focus on data integration, automations, and systems that need to be reliable.
 ## GitHub Stats
 
 <div align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gsjonio&theme=dracula" alt="GitHub Stats" />
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gsjonio&theme=dracula" alt="Top Languages" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gsjonio&theme=radical" alt="GitHub Stats" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gsjonio&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gsjonio&theme=dracula" alt="Most Commit Language" />
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gsjonio&theme=dracula&utcOffset=-3" alt="Productive Time" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gsjonio&theme=radical" alt="Most Commit Language" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gsjonio&theme=radical&utcOffset=-3" alt="Productive Time" />
 </div>
 
 ---
