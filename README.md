@@ -5,6 +5,9 @@
 **Python Backend Developer** | FastAPI · APIs · Microservices
 
 I focus on data integration, automations, and systems that need to be reliable.
+
+<img src="https://komarev.com/ghpvc/?username=gsjonio&style=flat-square&color=blueviolet" alt="Profile views" />
+
 </div>
 
 ## What I Do
@@ -57,8 +60,8 @@ I focus on data integration, automations, and systems that need to be reliable.
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsjonio&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsjonio&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gsjonio&show_icons=true&theme=dracula&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsjonio&layout=compact&theme=dracula&border_radius=10&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -67,6 +70,5 @@ I focus on data integration, automations, and systems that need to be reliable.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavooliveira5988/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavocode18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gsjonio)
 
 </div>
