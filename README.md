@@ -60,8 +60,8 @@ I focus on data integration, automations, and systems that need to be reliable.
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gsjonio&show_icons=true&theme=dracula&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsjonio&layout=compact&theme=dracula&border_radius=10&hide_border=true" alt="Top Languages" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gsjonio&theme=dracula" alt="GitHub Stats" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gsjonio&theme=dracula" alt="Top Languages" />
 </div>
 
 ---
