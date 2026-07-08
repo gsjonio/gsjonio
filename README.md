@@ -4,7 +4,7 @@
 
 **Backend Developer**
 
-Building APIs, data integrations, and automations!.
+Building APIs, data integrations, and automations!
 
 `Python` · `FastAPI` · `PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `AWS`
 
