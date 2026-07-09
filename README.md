@@ -2,9 +2,9 @@
 
 # Hi, I'm Gustavo "Bahia" Oliveira
 
-**Python Backend Developer**
+**Backend Developer**
 
-Building APIs, data integrations, and automations with Python and FastAPI.
+Building APIs, data integrations, and automations!
 
 `Python` · `FastAPI` · `PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `AWS`
 
